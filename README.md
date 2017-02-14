@@ -1,5 +1,5 @@
 # seeding: seeding alogrithm for single-elimination tournaments
-[![Build Status](https://travis-ci.org/Goldob/seeding.svg?branch=master)](https://travis-ci.org/Goldob/hh-mm-ss)
+[![Build Status](https://travis-ci.org/Goldob/seeding.svg?branch=master)](https://travis-ci.org/Goldob/seeding)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 :trophy: Generate seeding based on team ordering in qualifications.
