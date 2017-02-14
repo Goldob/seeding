@@ -1,0 +1,24 @@
+{
+  "name": "seeding",
+  "version": "1.0.0",
+  "description": "Seeding algorithm implementation for single-elimination tournaments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldob/seeding.git"
+  },
+  "keywords": [
+    "seeding",
+    "tournament",
+    "single-elimination"
+  ],
+  "author": "Adam Gotlib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldob/seeding/issues"
+  },
+  "homepage": "https://github.com/goldob/seeding#readme"
+}
