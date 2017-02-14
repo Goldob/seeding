@@ -1,6 +1,6 @@
 {
   "name": "seeding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Seeding algorithm implementation for single-elimination tournaments",
   "main": "index.js",
   "scripts": {
