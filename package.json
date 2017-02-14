@@ -4,7 +4,7 @@
   "description": "Seeding algorithm implementation for single-elimination tournaments",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard && node test"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/goldob/seeding/issues"
   },
-  "homepage": "https://github.com/goldob/seeding#readme"
+  "homepage": "https://github.com/goldob/seeding#readme",
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tape": "^4.6.3"
+  }
 }
